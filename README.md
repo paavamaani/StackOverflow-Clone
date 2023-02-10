@@ -1,6 +1,6 @@
 # Stack Overflow Clone
 
-<p> Stack Overflow clone is a website designed to mimic the functionality and user experience of Stack Overflow, the popular question and answer platform for software developers. It typically allows users to ask and answer technical questions, vote on the best answers, and earn reputation points for their contributions. </p>
+<p> Stack Overflow clone is a website designed to mimic the functionality and user experience of Stack Overflow, the popular question and answer platform for software developers. It typically allows users to ask and answer technical questions, vote on the best answers, and earn reputation points for their contributions. Which is deployed in the AWS Elastic Compute Cloud (EC2) environment and is equipped with an autoscaling load balancer to manage high traffic demands </p>
 
 <img src="https://csshint.com/wp-content/uploads/2019/05/Animated-Logo-examples-2.gif">
 
