@@ -51,14 +51,6 @@ The addition of Kafka in the middleware gives better throughput when scaled hori
 *	Using Kafka, I was able to build a fault-tolerant and scalable system. As the number of concurrent users grew, each thread was handled in a reliable     manner.
 *	I utilized Kafka as a messaging queue to handle numerous requests in the backend to manage big-weight resources. I also used Connection pooling to       speed up the fetch response.
 
-## Policy used to decide entry of data into database
-#### MySQL : 
-I stored tags in MySQL because these entities are independent. 
-
-#### MongoDB:
-MongoDB is a schema-less database, and its unstructured. I stored messages, questions, and users in MongoDB for faster retrieval.
-Scaling helps in increasing the performance of an application.
-
 ## Screenshots of the App
 
 <img src="./images/architecture.png">
