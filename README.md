@@ -8,10 +8,31 @@
 ## System Architecture
 
 The application is a 3-tier architecture with the technology stack used below.
- 
-* ##### Client/Tier-1 : React.js with Redux 
-* ##### MiddleWare/Tier-2: Kafka, Passport JWT, Redis cache 
-* ##### Backend/ Tier -3: Node.js, MySQL, MongoDB, Cloudinary storage. 
+
+### Frontend
+
+- React JS
+- Redux
+
+### Middleware
+
+- Kafka
+- Passport JWT
+- Redis
+
+### Backend
+
+- Node JS
+- Express JS
+
+### Database
+
+- MySQL
+- MongoDB
+
+### Deployment
+
+- AWS
 
 ## Object Management Policy
 
@@ -87,9 +108,3 @@ Scaling helps in increasing the performance of an application.
 
 #### Questions Based on Interesting Filter
 <img src="./images/questionsOnInteresting.png">
-
-
-
-
-
-
